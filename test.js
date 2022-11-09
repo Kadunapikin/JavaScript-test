@@ -13,5 +13,3 @@ function weather() {
     } 
 }
 select.addEventListener ("change", weather);
-
-const response = document.querySelector ("h1")
